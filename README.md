@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+![OIP](https://github.com/user-attachments/assets/6201336d-c38f-4854-bb37-6e9d792b8edf)
+
 ![MasterHead](https://github.com/rixscx/rixscx/blob/main/Manish%20P.png)
 <h1 align="center">Hi 👋, I'm Manish P</h1>
 <h3 align="center">A passionate student with a deep craze for technology, constantly seeking to enhance my knowledge and skills in this field.</h3>
