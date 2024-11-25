@@ -1,11 +1,8 @@
 # 💫 About Me:
-
-![OIP](https://github.com/user-attachments/assets/6201336d-c38f-4854-bb37-6e9d792b8edf)
-
 ![MasterHead](https://github.com/rixscx/rixscx/blob/main/Manish%20P.png)
+
 <h1 align="center">Hi 👋, I'm Manish P</h1>
 <h3 align="center">A passionate student with a deep craze for technology, constantly seeking to enhance my knowledge and skills in this field.</h3>
-
 🔭 I’m currently working on android app development.<br>🌱 I’m currently learning Advanced Python and Django.<br>💬 Ask me about Python Programming.<br>📫 How to reach me "livinell73@gmail.com"<br>⚡ Fun fact I am quite fond of culinary arts, trying to seize the world with my camera, traveling to different parts of the world, and diving into that marvelous anime world. They are passions that really make life exciting and filled for me.
 
 
